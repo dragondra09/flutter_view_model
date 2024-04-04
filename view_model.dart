@@ -44,7 +44,7 @@ abstract class ViewModel {
 /// * This example shows how to use View View<ViewModel>
 ///
 ///  ```dart
-// class HomeView extends View<HomeViewModel> {
+/// class HomeView extends View<HomeViewModel> {
 ///   const HomeView({super.key});
 ///
 ///   @override
